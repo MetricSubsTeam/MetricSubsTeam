@@ -1,4 +1,4 @@
 - 👋 Hi, we're the @MetricSubsTeam.
-- 👀 We are dedicated to breaking language barriers and bringing valuable content to you.
+- 👀 We are a video translation team that is dedicated to breaking language barriers and bringing valuable content to you.
 - 🌱 And we're non-profit and open-sourced!
 - 📫 Reach our dev team at dev@metricsubs.cn 
